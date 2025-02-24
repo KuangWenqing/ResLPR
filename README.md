@@ -11,4 +11,4 @@ We are excited to announce that the dataset and code related to ResLPR will be m
 We are currently in the process of preparing the dataset and code for release. Please stay tuned for updates.
 
 ## Supplementary
-For additional experimental results and visualizations of ResLPR, please refer to the supplementary.pdf.
+For additional experimental results and visualizations of ResLPR, please refer to the [supplementary.pdf](supplementary.pdf)
